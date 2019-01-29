@@ -1,0 +1,54 @@
+{
+  "pokemon": [
+    {
+      "id": 1,
+      "name": "bulbasaur",
+      "image": "https://en.wikipedia.org/wiki/File:Pok%C3%A9mon_Bulbasaur_art.png"
+    },
+    {
+      "id": 2,
+      "name": "pikachu",
+      "image": "https://en.wikipedia.org/wiki/File:Pok%C3%A9mon_Pikachu_art.png"
+    },
+    {
+      "id": 3,
+      "name": "squirtle",
+      "image": "https://en.wikipedia.org/wiki/File:Pok%C3%A9mon_Squirtle_art.png"
+    },
+    {
+      "id": 4,
+      "name": "chikorita",
+      "image": "https://en.wikipedia.org/wiki/File:Pok%C3%A9mon_Chikorita_art.png"
+    },
+    {
+      "id": 5,
+      "name": "charizard",
+      "image": "https://en.wikipedia.org/wiki/File:Pok%C3%A9mon_Charizard_art.png"
+    },
+    {
+      "id": 6,
+      "name": "geo-dude",
+      "image": "https://img.pokemondb.net/artwork/large/geodude."
+    },
+    {
+      "id": 7,
+      "name": "slow-poke",
+      "image": "https://vignette.wikia.nocookie.net/sonicpokemon/images/f/fa/Slowpoke_AG_anime.png/revision/latest?cb=20130625042820"
+    },
+    {
+      "id": 8,
+      "name": "butterfree",
+      "image": "http://static.pokemonpets.com/images/monsters-images-300-300/8012-Mega-Butterfree.png"
+    },
+    {
+      "id": 9,
+      "name": "wigglypuff",
+      "image": "https://bulbapedia.bulbagarden.net/wiki/File:040Wigglytuff.png"
+    },
+    {
+      "id": 10,
+      "name": "togepi",
+      "image": "https://cdn.bulbagarden.net/upload/6/6b/175Togepi.png"
+    }
+  ]
+}
